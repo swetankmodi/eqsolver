@@ -11,7 +11,7 @@ json
 
 ## Built With
 
-* [Python](http://www.python.org/) - Python2
+* [Python](http://www.python.org/) - Python 2.7
 
 ## Authors
 
