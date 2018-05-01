@@ -1,6 +1,6 @@
 # Equation Solver
 
-Solves the equation with a single unknown variable x.
+Solves the equation with a single unknown variable x. (In linear time)
 
 ### Prerequisites
 
